@@ -1,5 +1,5 @@
-// Solution of Task 1 of The Weekly Challenge 10
-// https://theweeklychallenge.org/blog/perl-weekly-challenge-010/
+// Solution of Task 1 of The Weekly Challenge 11
+// https://theweeklychallenge.org/blog/perl-weekly-challenge-011/
 
 // Test run:
 // $ java ch-1.java
