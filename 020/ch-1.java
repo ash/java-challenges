@@ -22,9 +22,7 @@ public class Main {
         String out = "";
         for (int pos = 0; pos != s.length(); pos++) {
             char curr = s.charAt(pos);
-            if (curr == prev) {
-            }
-            else {
+            if (curr != prev) {
                 if (!out.isEmpty()) {
                     System.out.println(out);
                 }
